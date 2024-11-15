@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate in the field of AI/ML<br><br>Hi , I am a AI/ML enthusiast who is currently pursuing DeepLearning specialisation course.<br>Currently, I am trying pushing myself to understand the power of AI to solve some real-world problems .<br>I am actively looking for an opportunity to work in the field of engineering and technology, if you wish to work together on a project, please feel free to reach out!<br><br>Portfolio website: https://shreyansh-vercel-app.vercel.app
+<br>👯 I’m looking to collaborate in the field of AI/ML<br><br>Hi , I am a AI/ML enthusiast who is currently pursuing DeepLearning specialisation course.<br>Currently, I am trying pushing myself to understand the power of AI to solve some real-world problems .<br>I am actively looking for an opportunity to work in the field of engineering and technology, if you wish to work together on a project, please feel free to reach out!<br><br>Portfolio website: https://shreyanshjain05.vercel.app
 
 
 ## 🌐 Socials:
