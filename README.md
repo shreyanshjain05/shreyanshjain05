@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently interning as an AI Developer at NIT Hamirpur and Siemas Technology.<br>💡 Serving as the Technical Lead at the IIE Incubation Centre, SRM IST Ramapuram, and as the Technical Head of SlugNPlug, a student-driven tech club at SRM IST Ramapuram.<br> <br><br>Portfolio Website: https://shreyanshjain05.vercel.app
+🔭 Currently interning as an AI Developer at NIT Hamirpur.<br>💡 Serving as the Technical Lead at the IIE Incubation Centre, SRM IST Ramapuram, and as the Technical Head of SlugNPlug, a student-driven tech club at SRM IST Ramapuram.<br> <br><br>Portfolio Website: https://shreyanshjain05.vercel.app
 
 
 ## 🌐 Socials:
