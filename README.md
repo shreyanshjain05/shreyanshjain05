@@ -86,7 +86,9 @@ const shreyansh = {
 
 <div align="center">
   
-  ![GitHub Contribution Grid](https://ghchart.rshah.org/36BCF7/shreyanshjain05)
+  ![GitHub Contribution Grid](https://github-readme-streak-stats.herokuapp.com?user=shreyanshjain05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  
+  ![Snake animation](https://github.com/shreyanshjain05/shreyanshjain05/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
