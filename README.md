@@ -8,9 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyanshjain05)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansh_jain2005@yahoo.com)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreyanshjain05)
-  
 
-  
 </div>
 
 ---
@@ -76,22 +74,26 @@ const shreyansh = {
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shreyanshjain05&theme=tokyonight&hide_border=true)
-  
-</div>
-
-## 🏆 GitHub Contributions
+## 🔥 GitHub Streak & Activity
 
 <div align="center">
   
-  ![GitHub Contribution Grid](https://github-readme-streak-stats.herokuapp.com?user=shreyanshjain05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-  
-  ![Snake animation](https://github.com/shreyanshjain05/shreyanshjain05/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyanshjain05&theme=tokyonight&hide_border=true)
   
 </div>
 
+## 🐍 Contribution
+<div align="center">
+
+  ![GitHub Contribution Grid](https://ghchart.rshah.org/36BCF7/shreyanshjain05)
+
+</div>
+### 📊 Activity Graph
+<div align="center">
+  
+  [![Shreyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyanshjain05&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
 ## 🎯 Current Focus
 
@@ -100,7 +102,6 @@ const shreyansh = {
 - 👥 **Leadership**: Mentoring fellow developers and leading tech initiatives
 - 📚 **Learning**: Exploring quantum computing and its intersection with AI
 - 🌟 **Contributing**: Open source projects that make a difference
-
 
 ## 🤝 Let's Connect!
 
@@ -112,3 +113,9 @@ I'm always excited to collaborate on innovative projects, discuss cutting-edge t
 - 🌐 **Portfolio**: [shreyanshjain05.vercel.app](https://shreyanshjain05.vercel.app)
 
 ---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=shreyanshjain05&color=brightgreen&style=flat-square&label=Profile+Views)
+  
+</div>
