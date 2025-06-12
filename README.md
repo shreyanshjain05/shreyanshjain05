@@ -22,10 +22,9 @@ const shreyansh = {
         "Technical Lead @ IIE Incubation Centre, SRM IST Ramapuram",
         "Technical Head @ SlugNPlug Tech Club"
     ],
-    focusAreas: ["Artificial Intelligence", "Full Stack Development", "Innovation"],
-    currentlyLearning: ["Advanced ML Algorithms", "Quantum Computing", "System Design"],
-    askMeAbout: ["AI/ML", "Web Development", "Tech Leadership", "Open Source"],
-    funFact: "I love turning complex problems into elegant solutions! ✨"
+    focusAreas: ["Artificial Intelligence", "Research", "Development", "Innovation"],
+    currentlyLearning: ["Advanced ML Algorithms", "Generative AI", "Backend"],
+    askMeAbout: ["AI/ML", "Web Development", "Tech Leadership"]"
 };
 ```
 
@@ -41,9 +40,7 @@ const shreyansh = {
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -53,7 +50,6 @@ const shreyansh = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -82,12 +78,6 @@ const shreyansh = {
   
 </div>
 
-## 🐍 Contribution
-<div align="center">
-
-  ![GitHub Contribution Grid](https://ghchart.rshah.org/36BCF7/shreyanshjain05)
-
-</div>
 ### 📊 Activity Graph
 <div align="center">
   
