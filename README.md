@@ -113,9 +113,3 @@ I'm always excited to collaborate on innovative projects, discuss cutting-edge t
 - 🌐 **Portfolio**: [shreyanshjain05.vercel.app](https://shreyanshjain05.vercel.app)
 
 ---
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=shreyanshjain05&color=brightgreen&style=flat-square&label=Profile+Views)
-  
-</div>
