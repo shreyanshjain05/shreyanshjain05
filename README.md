@@ -86,9 +86,10 @@ const shreyansh = {
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyanshjain05&theme=tokyo-night&hide_border=true)
+  ![GitHub Contribution Grid](https://ghchart.rshah.org/36BCF7/shreyanshjain05)
   
 </div>
+
 
 ## 🎯 Current Focus
 
@@ -109,11 +110,3 @@ I'm always excited to collaborate on innovative projects, discuss cutting-edge t
 - 🌐 **Portfolio**: [shreyanshjain05.vercel.app](https://shreyanshjain05.vercel.app)
 
 ---
-
-<div align="center">
-  
-  **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
-  
-  ⭐ From [shreyanshjain05](https://github.com/shreyanshjain05)
-  
-</div>
