@@ -61,13 +61,6 @@ const shreyansh = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-## 🔥 GitHub Streak & Activity
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyanshjain05&theme=tokyonight&hide_border=true)
-  
-</div>
 
 ## 🎯 Current Focus
 
