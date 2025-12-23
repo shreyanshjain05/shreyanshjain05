@@ -24,7 +24,7 @@
 
 ```typescript
 const shreyansh = {
-    currentRole: "AI Developer Intern @ NIT Hamirpur",
+    currentRole: "AI Developer Intern @ O6AI Labs",
     leadership: [
         "Technical Lead @ IIE Incubation Centre, SRM IST Ramapuram",
         "Technical Head @ SlugNPlug Tech Club"
