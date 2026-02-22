@@ -29,9 +29,9 @@ const shreyansh = {
         "Technical Lead @ IIE Incubation Centre, SRM IST Ramapuram",
         "Technical Head @ SlugNPlug Tech Club"
     ],
-    focusAreas: ["Artificial Intelligence", "Research", "Development", "Innovation"],
-    currentlyLearning: ["Advanced ML Algorithms", "Generative AI", "Backend"],
-    askMeAbout: ["AI/ML", "Web Development", "Tech Leadership"]"
+    focusAreas: ["Artificial Intelligence", "Research", "Writing", "Development", "Innovation"],
+    currentlyLearning: ["Advanced ML Algorithms", "Generative AI", "Exploring new framework/paradigm", "Reading some awesome research papers"],
+    askMeAbout: ["AI/ML", "Research", "Developement", "Travel", "Food"]
 };
 ```
 
@@ -63,7 +63,6 @@ const shreyansh = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 
 
 ## 🎯 Current Focus
