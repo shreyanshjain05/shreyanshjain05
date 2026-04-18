@@ -56,8 +56,7 @@ class ShreyanshJain:
         "Deep-diving into SOTA retrieval, reasoning & agent architectures",
         "Studying how top-tier AI products are actually built & deployed",
         "Bridging the gap between research papers and real systems",
-        "Exploring AI Safety & Security",
-
+        "Exploring AI Safety & Security and Applied Mathematics",
     ]
 
     community     = {
