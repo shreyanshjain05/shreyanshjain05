@@ -126,16 +126,6 @@ class ShreyanshJain:
 
 ---
 
-## `$ git log --oneline --graph`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shreyanshjain05&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## `$ ping shreyansh`
 
 <div align="center">
