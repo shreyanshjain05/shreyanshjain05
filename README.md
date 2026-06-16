@@ -94,11 +94,14 @@ class ShreyanshJain:
 ![WebSockets](https://img.shields.io/badge/WebSockets-1a1a2e?style=flat-square&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)
 
-### 🗄️ &nbsp; Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![GCP](https://img.shields.io/badge/Google_Cloud-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
+### ☁️ &nbsp; Google Cloud & Data Engineering
+![GCP](https://img.shields.io/badge/GCP-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-1a1a2e?style=flat-square&logo=googlecloud&logoColor=00BCD4)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![BigQuery](https://img.shields.io/badge/BigQuery-1a1a2e?style=flat-square&logo=googlebigquery&logoColor=669DF6)
+![Firestore](https://img.shields.io/badge/Firestore-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
 
 ### 🔧 &nbsp; Dev Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
